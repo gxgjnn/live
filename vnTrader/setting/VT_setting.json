@@ -1,0 +1,12 @@
+{
+	"fontFamily": "Microsoft Yahei",
+	"fontSize": 12,
+
+	"mdAddress" : "tcp://data.tushare.org:8910",   
+    "tdAddress" : "tcp://gw.quantos.org:8901",
+
+    "username" : "13661860320",
+    "token"    : "eyJhbGciOiJIUzI1NiJ9.eyJjcmVhdGVfdGltZSI6IjE1MTYwMTAzNjg3MTUiLCJpc3MiOiJhdXRoMCIsImlkIjoiMTM2NjE4NjAzMjAifQ.8sajz3mLHJM1JQEreIwk6BnWNIb5oCIHVDmlhHgmGwE",
+
+	"darkStyle": true
+}
